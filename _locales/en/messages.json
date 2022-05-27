@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "NCB Paste Anti-Block",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Paste your password on the NCB Personal Banking login page without hassle.",
+        "description": "Description of what the extension does."
+    }
+}
