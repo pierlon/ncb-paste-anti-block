@@ -1,0 +1,6 @@
+/.vscode
+/build
+
+.DS_Store
+extension_v2.zip
+extension_v3.zip

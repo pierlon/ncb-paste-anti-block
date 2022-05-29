@@ -18,11 +18,5 @@
         "js": [ "content.js" ],
         "matches": [ "https://retail.ncbelink.com/corp/AuthenticationController*" ],
         "run_at": "document_end"
-    }],
-
-    "browser_action": {
-        "default_icon": "images/toolbar-icon.svg"
-    },
-
-    "permissions": [ ]
+    }]
 }
